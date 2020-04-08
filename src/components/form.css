@@ -1,0 +1,13 @@
+.button {
+    background-color: #585858;
+    color: white;
+    height: 31px;
+    font-size: 20px;
+}
+.input {
+    background-color: #585858;
+    color: white;
+    height: 25px;
+    width: 150px;
+    font-size: 20px;
+}
